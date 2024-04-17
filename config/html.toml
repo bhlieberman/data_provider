@@ -1,0 +1,3 @@
+[resource]
+
+document = { name = "index.html", attrs = ["href", "class"] }
